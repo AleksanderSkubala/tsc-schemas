@@ -2,7 +2,7 @@
 
 Seed the SQL Server (skip Postgres) with scripts inside Seeds.
 
-**Note:** scrips in Other/* are used only for seeding databases, do not include them in any script.
+**Note:** scrips in Seeds/* are used only for seeding databases, do not include them in any automation script.
 
 
 # Add new tenant steps
