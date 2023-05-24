@@ -23,3 +23,5 @@ Seed the SQL Server (skip Postgres) with scripts inside Seeds.
 7. [In SQL Server] Copy the the prototype table into <tenant_name> database:
     - example can be found in SQLServer/copy_prototype.sql
     - you need to change [test] to <tenant_name>
+
+8. Add dns cname record <tenant_name>.domain.example
