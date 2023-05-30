@@ -1,4 +1,4 @@
 insert into Organization
 (OrganizationName, Tenant)
 values
-($(OrganizationName), $(Tenant))
+("$(OrganizationName)", "$(Tenant)")
